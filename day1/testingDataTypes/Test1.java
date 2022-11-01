@@ -1,4 +1,4 @@
-package day1.dataTypes;
+package day1.testingDataTypes;
 
 /*
   To Do : Go through individual classes, look for compiler errs , if none 

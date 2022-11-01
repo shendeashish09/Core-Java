@@ -1,4 +1,4 @@
-package day1.dataTypes;
+package day1.testingDataTypes;
 
 //listing 1
 // Demonstrate the basic arithmetic operators.
