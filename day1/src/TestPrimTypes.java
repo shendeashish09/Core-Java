@@ -17,7 +17,7 @@ public class TestPrimTypes {
 
     byte b3 = (byte) (b1 + b2); //Typecasting or forceful conversion
 
-    b1 += 10; // b1 = (byte) (b1+10); It internally does the typecasting automatically
+    b1 += 10; // b1 = (byte) (b1+10); It internally does the typecasting automatically due to += operator
 
     int i = b1; // automatic type conversion
     long l1 = 1234565474;

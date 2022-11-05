@@ -1,4 +1,3 @@
-package day1.testingDataTypes;
 
 public class Program1
 {

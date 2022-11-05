@@ -10,7 +10,7 @@ class Light {
     // approximate speed of light in miles per second
     lightspeed = 186000;
 
-    days = 1000; // specify number of days here
+    days = 1; // specify number of days here
 
     seconds = days * 24 * 60 * 60; // convert to seconds
 
